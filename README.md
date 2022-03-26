@@ -7,9 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Running this project: 
+## Running this project
 ```
 sail up
+```
+
+## Executing commands
+Must preface with sail. Example:
+```
+sail npm install bootstrap
+```
+
+## Watching files
+```
+sail npm run watch
 ```
 
 ## About Laravel
