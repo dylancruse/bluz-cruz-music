@@ -14,3 +14,5 @@ yarn-error.log
 /.vscode
 package-lock.json
 composer.lock
+public/js/index.js
+public/css/app.css
