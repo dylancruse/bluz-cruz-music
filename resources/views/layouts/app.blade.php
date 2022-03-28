@@ -21,7 +21,7 @@
     <body class="font-sans antialiased">
         @include('layouts.navbar')
 
-        <main class="bg-dark p-5">
+        <main class="bg-dark px-5 py-2">
             @yield('content')
         </main>
         @include('layouts.footer')
