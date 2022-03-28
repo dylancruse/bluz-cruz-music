@@ -1,0 +1,11 @@
+.spotify-green {
+    background-color: #1DB954;
+};
+
+.card-link {
+    color: inherit;
+    &:hover {
+        color: inherit;
+        cursor: pointer;
+    }
+}
